@@ -7,6 +7,7 @@ public class String {
 		System.out.println('문'); //문자는 '' or ""
 		System.out.println("문"); 
 		System.out.println("문자열"); //문자열은 ""
+		System.out.println("나는"+' '+"방윤입니다.");
 	}
 
 }
