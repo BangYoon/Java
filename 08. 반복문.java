@@ -3,7 +3,8 @@ package bangyoon.java.eclipse;
 public class 반복문 {
 
 	public static void main(java.lang.String[] args) {
-		int i = 0; // i가 10보다 작으면 true, 크면 false
+		int i = 0;
+		
 		while(i<10){         
 		    System.out.println("while "+i);
 		    i++;
@@ -14,7 +15,6 @@ public class 반복문 {
 			continue;
 		    if(i == 6)
 			break;
-
 		    System.out.println("for " + i);
 		}
 	}
