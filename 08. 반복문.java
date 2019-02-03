@@ -10,12 +10,12 @@ public class 반복문 {
 		}
 		
 		for (i = 0; i < 10; i++) {
-            if(i == 4)
-            	continue;
-            if(i == 6)
-            	break;
-            
-            System.out.println("for " + i);
-        }
+		    if(i == 4)
+			continue;
+		    if(i == 6)
+			break;
+
+		    System.out.println("for " + i);
+		}
 	}
 }
