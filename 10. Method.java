@@ -18,5 +18,4 @@ public class Method {
 		java.lang.String result = numbering(10);
 		System.out.println(result);
 	}
-
 }
